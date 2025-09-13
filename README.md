@@ -2,7 +2,6 @@
 
 # Hand-Speak: Indian Sign Language (ISL) Static Recognition
 
-![Hand-Speak Logo](SIGN_LANGUAGE_LOGO.png)
 
 ---
 
