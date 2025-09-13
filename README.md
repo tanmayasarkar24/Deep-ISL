@@ -47,5 +47,5 @@ This project uses the Indian Sign Language dataset from Kaggle:
 
 ### Installation
 1. Clone this repository.
-1. Clone this repository.
+
 
